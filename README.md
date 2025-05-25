@@ -1,7 +1,5 @@
 ## Hi there 👋
 # 我叫郑安南
-## 我爱导管
-### 丁硕是傻逼
 <!--
 **ZhengXiaox1n/ZhengXiaox1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
